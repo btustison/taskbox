@@ -87,8 +87,5 @@
   },
   "msw": {
     "workerDirectory": "public"
-  },
-  "readme": "ERROR: No README data found!",
-  "homepage": "https://github.com/chromaui/intro-storybook-react-template#readme",
-  "_id": "intro-storybook-react-template@0.1.0"
+  }
 }
